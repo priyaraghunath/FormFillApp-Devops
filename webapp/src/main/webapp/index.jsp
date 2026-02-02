@@ -21,8 +21,8 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
-    <label for="aadhar"><b>Aadhar Number</b></label>
-    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+    <label for="Address"><b>Address</b></label>
+    <input type="text" placeholder="Enter Address" name="address" id="address" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
